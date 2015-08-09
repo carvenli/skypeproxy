@@ -31,3 +31,6 @@ $./cl1.sh
 --start client (win32)
 cmd>runner.cmd
 
+
+https://github.com/mirror/launch4j
+https://github.com/lukaszlenart/launch4j-maven-plugin
